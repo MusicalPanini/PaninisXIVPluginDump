@@ -4,7 +4,7 @@
     "Name": "Party List Layout",
     "Punchline": "Customize the layout of the party list.",
     "Description": "Customize the layout of the party list.",
-    "InternalName": "PartyListLayout",
+    "InternalName": "PaninisPartyListLayout",
     "AssemblyVersion": "1.0.0.0",
     "TestingAssemblyVersion": "1.0.0.0",
     "ApplicableVersion": "any",
