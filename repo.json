@@ -15,6 +15,7 @@
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/MusicalPanini/PaninisXIVPluginDump/releases/download/PartyListLayout_v1.0.0.0/partylistlayout.zip",
     "DownloadLinkTesting": "https://github.com/MusicalPanini/PaninisXIVPluginDump/releases/download/PartyListLayout_v1.0.0.0/partylistlayout.zip",
-    "DownloadLinkUpdate": "https://github.com/MusicalPanini/PaninisXIVPluginDump/releases/download/PartyListLayout_v1.0.0.0/partylistlayout.zip"
+    "DownloadLinkUpdate": "https://github.com/MusicalPanini/PaninisXIVPluginDump/releases/download/PartyListLayout_v1.0.0.0/partylistlayout.zip",
+    "IconUrl": "https://raw.githubusercontent.com/MusicalPanini/PaninisXIVPluginDump/main/panini.png"
   }
 ]
